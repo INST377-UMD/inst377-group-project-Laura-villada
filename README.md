@@ -2,7 +2,7 @@
 
 Title of your project: 
   HappyTummy Explorer
-by: Emanuel Fong, Laura Villada, Eitan Zavorin
+by: Laura Villada, Eitan Zavorin, Emanuel Fong
 
 Description of your project: We created a web application that helps individuals with food allergies discover safe and delicious recipes that align with their dietary restrictions. This application will leverage the spoonacular API, a comprehensive food API that provides detailed information about ingredients, recipes, and dietary considerations.
 
