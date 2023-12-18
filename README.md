@@ -32,7 +32,6 @@ To run the application on a server, use the following command:
 
   npm start
 
-
 This will start the server, and you can access the application in your web browser at http://localhost:3000.
 
 Running Tests
