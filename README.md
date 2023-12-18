@@ -4,13 +4,13 @@ Title of your project:
   HappyTummy Explorer
 by: Laura Villada, Eitan Zavorin, Emanuel Fong
 
-Description of your project: We created a web application that helps individuals with food allergies discover safe and delicious recipes that align with their dietary restrictions. This application will leverage the spoonacular API, a comprehensive food API that provides detailed information about ingredients, recipes, and dietary considerations.
+-Description of your project: We created a web application that helps individuals with food allergies discover safe and delicious recipes that align with their dietary restrictions. This application will leverage the spoonacular API, a comprehensive food API that provides detailed information about ingredients, recipes, and dietary considerations.
 
-Description of target browsers (iOS? Android? Which ones?): Our Food Allergy Recipe Finder Web Application is designed to be compatible with modern web browsers, providing a consistent and user-friendly experience across various platforms. The application is optimized for the latest versions of popular browsers such as Google Chrome, Mozilla Firefox, Apple Safari, and Microsoft Edge. We recommend users access the application using up-to-date versions of these browsers to ensure optimal performance, security, and access to all features. 
+-Description of target browsers (iOS? Android? Which ones?): Our Food Allergy Recipe Finder Web Application is designed to be compatible with modern web browsers, providing a consistent and user-friendly experience across various platforms. The application is optimized for the latest versions of popular browsers such as Google Chrome, Mozilla Firefox, Apple Safari, and Microsoft Edge. We recommend users access the application using up-to-date versions of these browsers to ensure optimal performance, security, and access to all features. 
 
-Developer Manual: 
+-Developer Manual: 
 
-Introduction:
+-Introduction:
 This document provides technical instructions for future developers who will be working on this project. It covers setting up the application, running it on a server, running tests, understanding the API endpoints, known bugs, and future development plans.
 
 Installation and Dependencies
@@ -34,23 +34,23 @@ To run the application on a server, use the following command:
 
 This will start the server, and you can access the application in your web browser at http://localhost:3000.
 
-Running Tests
+-Running Tests
 To run tests for this software, execute the following command:
 
   npm test
 
 
-API Endpoints
+-API Endpoints
+The API for this server application exposes the following endpoints:
+
+-API Endpoints
 The API for this server application exposes the following endpoints:
 
 API Endpoints
-The API for this server application exposes the following endpoints:
-
-### API Endpoints
 
 The API for this server application provides the following endpoints:
 
-#### GET /recipes/complexSearch
+GET /recipes/complexSearch
 
 - Description: Search for recipes using advanced filtering and ranking.
 - Parameters:
@@ -132,11 +132,11 @@ Example Reponse:
 
 
 
-Known Bugs
+-Known Bugs
 Currently, there are no known bugs in the system. If you encounter any issues or bugs, please report them to the project maintainers.
 
 
-Future Development:
+-Future Development:
 
   Looking ahead, there are several opportunities to enhance the application further:
   
